@@ -5,6 +5,17 @@ This project runs Automation Test Suites of User SignUp feature for Studydrive a
 This Project uses the build tool Gradle. Please use the wrapper .gradlew instead of any gradle installation on your
 local machine.
 
+## Technologies/Frameworks used:
+
+<ul>
+<li>Java</li>
+<li>Appium</li>
+<li>TestNG</li>
+<li>Gradle</li>
+<li>Cucumber Framework</li>
+
+</ul>
+
 ## Global gradle Settings ##
 
 Add the following to your project `gradle.properties` to ensure gradle has enough heap space to work with this project:
